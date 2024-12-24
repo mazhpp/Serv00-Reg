@@ -10,14 +10,15 @@ wget https://raw.githubusercontent.com/mazhpp/Serv00-Reg/main/main.py
 ```bash
 curl -O https://raw.githubusercontent.com/mazhpp/Serv00-Reg/main/main.py
 ```
-## 安装依赖
+## 运行方法一
+### 安装依赖
 ### 使用 `pip` 安装依赖库
 你可以通过以下指令直接从 GitHub 上安装项目所需的所有依赖库：
 ```bash
 pip install -r https://raw.githubusercontent.com/mazhpp/Serv00-Reg/main/requirements.txt
 ```
 
-## 创建并激活虚拟环境 (非常重要!)
+## 运行方法二、创建并激活虚拟环境 (非常重要!)
 ```bash
 python3 -m venv .venv       # 创建名为 .venv 的虚拟环境
 source .venv/bin/activate  # 激活虚拟环境
