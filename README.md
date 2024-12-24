@@ -27,3 +27,8 @@ source .venv/bin/activate  # 激活虚拟环境
 ```bash
 pip install -r https://raw.githubusercontent.com/mazhpp/Serv00-Reg/main/requirements.txt
 ```
+
+## 运行
+```bash
+python main.py
+```
