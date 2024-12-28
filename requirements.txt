@@ -1,3 +1,9 @@
 ddddocr
-requests
+fastapi
+uvicorn
 loguru
+curl_cffi
+python-multipart
+brotli
+zstandard
+fake-useragent
